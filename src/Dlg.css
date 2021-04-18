@@ -1,0 +1,22 @@
+.dialog {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  padding: 1rem;
+  border-radius: 5px;
+  min-width: 400px;
+  background-color: rgb(45, 73, 124);
+  border: 1px white solid;
+}
+
+.close-icon {
+
+  text-align: center;
+  background-color: rgb(45, 73, 124);
+  font-weight: 700;
+
+}
+
+.close-icon:hover {
+  cursor: pointer;
+}
